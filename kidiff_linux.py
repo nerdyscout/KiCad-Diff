@@ -57,7 +57,7 @@ diffProg = 'diff'
 grepProg = 'grep'
 plotProg = executablePath + '/plotPCB.py'
 
-plotDir = '/plots'
+plotDir = '/kidiff'
 webDir = '/web'
 
 # -------------------------------------------------------------------------
